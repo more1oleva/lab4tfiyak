@@ -1,0 +1,4 @@
+public struct person{
+      public string name;
+      public int age ;
+};

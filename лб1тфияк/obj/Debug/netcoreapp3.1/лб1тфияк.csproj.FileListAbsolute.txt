@@ -1,0 +1,55 @@
+C:\Users\Ольга\source\repos\лб1тфияк\лб1тфияк\bin\Debug\netcoreapp3.1\лб1тфияк.exe
+C:\Users\Ольга\source\repos\лб1тфияк\лб1тфияк\bin\Debug\netcoreapp3.1\лб1тфияк.deps.json
+C:\Users\Ольга\source\repos\лб1тфияк\лб1тфияк\bin\Debug\netcoreapp3.1\лб1тфияк.runtimeconfig.json
+C:\Users\Ольга\source\repos\лб1тфияк\лб1тфияк\bin\Debug\netcoreapp3.1\лб1тфияк.runtimeconfig.dev.json
+C:\Users\Ольга\source\repos\лб1тфияк\лб1тфияк\bin\Debug\netcoreapp3.1\лб1тфияк.dll
+C:\Users\Ольга\source\repos\лб1тфияк\лб1тфияк\bin\Debug\netcoreapp3.1\лб1тфияк.pdb
+C:\Users\Ольга\source\repos\лб1тфияк\лб1тфияк\obj\Debug\netcoreapp3.1\лб1тфияк.csproj.AssemblyReference.cache
+C:\Users\Ольга\source\repos\лб1тфияк\лб1тфияк\obj\Debug\netcoreapp3.1\лб1тфияк.Form1.resources
+C:\Users\Ольга\source\repos\лб1тфияк\лб1тфияк\obj\Debug\netcoreapp3.1\лб1тфияк.csproj.GenerateResource.cache
+C:\Users\Ольга\source\repos\лб1тфияк\лб1тфияк\obj\Debug\netcoreapp3.1\лб1тфияк.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ольга\source\repos\лб1тфияк\лб1тфияк\obj\Debug\netcoreapp3.1\лб1тфияк.AssemblyInfoInputs.cache
+C:\Users\Ольга\source\repos\лб1тфияк\лб1тфияк\obj\Debug\netcoreapp3.1\лб1тфияк.AssemblyInfo.cs
+C:\Users\Ольга\source\repos\лб1тфияк\лб1тфияк\obj\Debug\netcoreapp3.1\лб1тфияк.csproj.CoreCompileInputs.cache
+C:\Users\Ольга\source\repos\лб1тфияк\лб1тфияк\obj\Debug\netcoreapp3.1\лб1тфияк.dll
+C:\Users\Ольга\source\repos\лб1тфияк\лб1тфияк\obj\Debug\netcoreapp3.1\лб1тфияк.pdb
+C:\Users\Ольга\source\repos\лб1тфияк\лб1тфияк\obj\Debug\netcoreapp3.1\лб1тфияк.genruntimeconfig.cache
+C:\Users\Ольга\source\repos\лб1тфияк\лб1тфияк\obj\Debug\netcoreapp3.1\лб1тфияк.Properties.Resources.resources
+C:\Users\rombk\OneDrive\Рабочий стол\лб1тфияк\лб1тфияк\bin\Debug\netcoreapp3.1\лб1тфияк.exe
+C:\Users\rombk\OneDrive\Рабочий стол\лб1тфияк\лб1тфияк\bin\Debug\netcoreapp3.1\лб1тфияк.deps.json
+C:\Users\rombk\OneDrive\Рабочий стол\лб1тфияк\лб1тфияк\bin\Debug\netcoreapp3.1\лб1тфияк.runtimeconfig.json
+C:\Users\rombk\OneDrive\Рабочий стол\лб1тфияк\лб1тфияк\bin\Debug\netcoreapp3.1\лб1тфияк.runtimeconfig.dev.json
+C:\Users\rombk\OneDrive\Рабочий стол\лб1тфияк\лб1тфияк\bin\Debug\netcoreapp3.1\лб1тфияк.dll
+C:\Users\rombk\OneDrive\Рабочий стол\лб1тфияк\лб1тфияк\bin\Debug\netcoreapp3.1\лб1тфияк.pdb
+C:\Users\rombk\OneDrive\Рабочий стол\лб1тфияк\лб1тфияк\obj\Debug\netcoreapp3.1\лб1тфияк.csproj.AssemblyReference.cache
+C:\Users\rombk\OneDrive\Рабочий стол\лб1тфияк\лб1тфияк\obj\Debug\netcoreapp3.1\лб1тфияк.Form1.resources
+C:\Users\rombk\OneDrive\Рабочий стол\лб1тфияк\лб1тфияк\obj\Debug\netcoreapp3.1\лб1тфияк.Properties.Resources.resources
+C:\Users\rombk\OneDrive\Рабочий стол\лб1тфияк\лб1тфияк\obj\Debug\netcoreapp3.1\лб1тфияк.csproj.GenerateResource.cache
+C:\Users\rombk\OneDrive\Рабочий стол\лб1тфияк\лб1тфияк\obj\Debug\netcoreapp3.1\лб1тфияк.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rombk\OneDrive\Рабочий стол\лб1тфияк\лб1тфияк\obj\Debug\netcoreapp3.1\лб1тфияк.AssemblyInfoInputs.cache
+C:\Users\rombk\OneDrive\Рабочий стол\лб1тфияк\лб1тфияк\obj\Debug\netcoreapp3.1\лб1тфияк.AssemblyInfo.cs
+C:\Users\rombk\OneDrive\Рабочий стол\лб1тфияк\лб1тфияк\obj\Debug\netcoreapp3.1\лб1тфияк.csproj.CoreCompileInputs.cache
+C:\Users\rombk\OneDrive\Рабочий стол\лб1тфияк\лб1тфияк\obj\Debug\netcoreapp3.1\лб1тфияк.dll
+C:\Users\rombk\OneDrive\Рабочий стол\лб1тфияк\лб1тфияк\obj\Debug\netcoreapp3.1\лб1тфияк.pdb
+C:\Users\rombk\OneDrive\Рабочий стол\лб1тфияк\лб1тфияк\obj\Debug\netcoreapp3.1\лб1тфияк.genruntimeconfig.cache
+C:\Users\rombk\OneDrive\Рабочий стол\лб1тфияк\лб1тфияк\bin\Debug\netcoreapp3.1\Antlr4.Runtime.Standard.dll
+C:\Users\rombk\OneDrive\Рабочий стол\лб1тфияк\лб1тфияк\obj\Debug\netcoreapp3.1\лб1тфияк.csproj.CopyComplete
+C:\Users\Ольга\Downloads\ya seychas monitor rashuyariu\лб1тфияк\bin\Debug\netcoreapp3.1\лб1тфияк.exe
+C:\Users\Ольга\Downloads\ya seychas monitor rashuyariu\лб1тфияк\bin\Debug\netcoreapp3.1\лб1тфияк.deps.json
+C:\Users\Ольга\Downloads\ya seychas monitor rashuyariu\лб1тфияк\bin\Debug\netcoreapp3.1\лб1тфияк.runtimeconfig.json
+C:\Users\Ольга\Downloads\ya seychas monitor rashuyariu\лб1тфияк\bin\Debug\netcoreapp3.1\лб1тфияк.runtimeconfig.dev.json
+C:\Users\Ольга\Downloads\ya seychas monitor rashuyariu\лб1тфияк\bin\Debug\netcoreapp3.1\лб1тфияк.dll
+C:\Users\Ольга\Downloads\ya seychas monitor rashuyariu\лб1тфияк\bin\Debug\netcoreapp3.1\лб1тфияк.pdb
+C:\Users\Ольга\Downloads\ya seychas monitor rashuyariu\лб1тфияк\bin\Debug\netcoreapp3.1\Antlr4.Runtime.Standard.dll
+C:\Users\Ольга\Downloads\ya seychas monitor rashuyariu\лб1тфияк\obj\Debug\netcoreapp3.1\лб1тфияк.csproj.AssemblyReference.cache
+C:\Users\Ольга\Downloads\ya seychas monitor rashuyariu\лб1тфияк\obj\Debug\netcoreapp3.1\лб1тфияк.Form1.resources
+C:\Users\Ольга\Downloads\ya seychas monitor rashuyariu\лб1тфияк\obj\Debug\netcoreapp3.1\лб1тфияк.Properties.Resources.resources
+C:\Users\Ольга\Downloads\ya seychas monitor rashuyariu\лб1тфияк\obj\Debug\netcoreapp3.1\лб1тфияк.csproj.GenerateResource.cache
+C:\Users\Ольга\Downloads\ya seychas monitor rashuyariu\лб1тфияк\obj\Debug\netcoreapp3.1\лб1тфияк.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ольга\Downloads\ya seychas monitor rashuyariu\лб1тфияк\obj\Debug\netcoreapp3.1\лб1тфияк.AssemblyInfoInputs.cache
+C:\Users\Ольга\Downloads\ya seychas monitor rashuyariu\лб1тфияк\obj\Debug\netcoreapp3.1\лб1тфияк.AssemblyInfo.cs
+C:\Users\Ольга\Downloads\ya seychas monitor rashuyariu\лб1тфияк\obj\Debug\netcoreapp3.1\лб1тфияк.csproj.CoreCompileInputs.cache
+C:\Users\Ольга\Downloads\ya seychas monitor rashuyariu\лб1тфияк\obj\Debug\netcoreapp3.1\лб1тфияк.csproj.CopyComplete
+C:\Users\Ольга\Downloads\ya seychas monitor rashuyariu\лб1тфияк\obj\Debug\netcoreapp3.1\лб1тфияк.dll
+C:\Users\Ольга\Downloads\ya seychas monitor rashuyariu\лб1тфияк\obj\Debug\netcoreapp3.1\лб1тфияк.pdb
+C:\Users\Ольга\Downloads\ya seychas monitor rashuyariu\лб1тфияк\obj\Debug\netcoreapp3.1\лб1тфияк.genruntimeconfig.cache
