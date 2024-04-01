@@ -5,7 +5,7 @@
 ### Примеры допустимых строк
 ![309557916-fc6f1710-46ab-4f0e-970f-2c3ce1689ff6](https://github.com/more1oleva/lab4tfiyak/assets/118746926/bbdb3f7d-504b-4254-9829-99701aba67d4)
 ### Тестовые примеры 
-1. Нашли ошибки
+1. Нашли ошибки \
 ![Снимок](https://github.com/more1oleva/lab4tfiyak/assets/118746926/6e04ca7a-cf13-4f6e-86b4-2424540a908e) \
-2. Нажимаем на кнопку "Исправить" и исправляем ошибки
+2. Нажимаем на кнопку "Исправить" и исправляем ошибки \
    ![Снимок](https://github.com/more1oleva/lab4tfiyak/assets/118746926/c73224a4-21d8-4a9a-96eb-bbf0ca90b601)
