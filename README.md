@@ -6,7 +6,7 @@
 ![309557916-fc6f1710-46ab-4f0e-970f-2c3ce1689ff6](https://github.com/more1oleva/lab4tfiyak/assets/118746926/bbdb3f7d-504b-4254-9829-99701aba67d4)
 ### Тестовые примеры 
 1. Нашли ошибки \
- ![Снимок](https://github.com/more1oleva/lab4tfiyak/assets/118746926/fc2423b5-2148-40e6-91aa-e799513c2511) \
+![Снимок](https://github.com/more1oleva/lab4tfiyak/assets/118746926/26508128-eb4e-4388-afd0-e60119cbbe40) \
 
 2. Нажимаем на кнопку "Исправить" и исправляем ошибки \
  
