@@ -1,0 +1,12 @@
+C:\Users\Ольга\Downloads\try\Solution1\code_analysis\bin\Debug\net7.0\CodeAnalysis.deps.json
+C:\Users\Ольга\Downloads\try\Solution1\code_analysis\bin\Debug\net7.0\CodeAnalysis.dll
+C:\Users\Ольга\Downloads\try\Solution1\code_analysis\bin\Debug\net7.0\CodeAnalysis.pdb
+C:\Users\Ольга\Downloads\try\Solution1\code_analysis\obj\Debug\net7.0\CodeAnalysis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ольга\Downloads\try\Solution1\code_analysis\obj\Debug\net7.0\CodeAnalysis.AssemblyInfoInputs.cache
+C:\Users\Ольга\Downloads\try\Solution1\code_analysis\obj\Debug\net7.0\CodeAnalysis.AssemblyInfo.cs
+C:\Users\Ольга\Downloads\try\Solution1\code_analysis\obj\Debug\net7.0\CodeAnalysis.csproj.CoreCompileInputs.cache
+C:\Users\Ольга\Downloads\try\Solution1\code_analysis\obj\Debug\net7.0\CodeAnalysis.sourcelink.json
+C:\Users\Ольга\Downloads\try\Solution1\code_analysis\obj\Debug\net7.0\CodeAnalysis.dll
+C:\Users\Ольга\Downloads\try\Solution1\code_analysis\obj\Debug\net7.0\refint\CodeAnalysis.dll
+C:\Users\Ольга\Downloads\try\Solution1\code_analysis\obj\Debug\net7.0\CodeAnalysis.pdb
+C:\Users\Ольга\Downloads\try\Solution1\code_analysis\obj\Debug\net7.0\ref\CodeAnalysis.dll
